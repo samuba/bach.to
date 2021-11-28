@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+Hier gibts bald eine kleine Visitenkarte von mir und links zu meinen side projects.
+<br />...und evtl ja auch mal ein blog wo nicht viel drinn steht.
