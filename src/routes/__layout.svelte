@@ -16,5 +16,7 @@
 
 	<slot />
 
-	<footer />
+	<footer style="height: 7rem;">
+		<br />
+	</footer>
 </main>
