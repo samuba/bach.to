@@ -10,7 +10,7 @@
 		title="create.party"
 		url="https://create.party"
 		description="Little helper for organizing your events."
-		stack="Sveltekit, TailwindCSS, Firebase, Vercel"
+		stack="Sveltekit, TailwindCSS, Supabase, PostgreSQL, Vercel"
 	>
 		<img
 			slot="icon"
